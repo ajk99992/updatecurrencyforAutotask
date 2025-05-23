@@ -24,9 +24,9 @@ async function updateExchangeRateInAutotask(exchangeRate) {
         const response = await axios.patch(AUTOTASK_API_URL, payload, {
             headers: {
                 "Content-Type": "application/json",
-                "ApiIntegrationCode": "DTIJNZTCUIOBUE3RJSHOTVNJ57P",
-                "UserName": "msnsd4oxrlsutly@NGENUITY.CA",
-                "Secret": "Mo5*3E$nW~x6tR1@#9zX8eH$#",
+                "ApiIntegrationCode": "#",
+                "UserName": "#",
+                "Secret": "#",
             }
         });
 
